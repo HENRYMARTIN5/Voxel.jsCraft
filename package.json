@@ -1,0 +1,13 @@
+{
+  "name": "Voxel.jsEngineVanilla",
+  "version": "0.0.1",
+  "dependencies": {
+    "voxel-carry": "^1.0.0",
+    "voxel-gamemode": "^1.0.0",
+    "voxel-hello-world": "0.6.0",
+    "voxel-keys": "^0.5.0",
+    "voxel-mine": "^1.0.0",
+    "voxel-plugins": "^0.5.0",
+    "voxel-reach": "^0.2.2"
+  }
+}
